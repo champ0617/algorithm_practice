@@ -1,3 +1,6 @@
+# 注意python输入多行的时候 可以通过try except 跳出
+
+
 while True:
     try:
         i = 0

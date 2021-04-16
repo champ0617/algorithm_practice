@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a3443b8-6a20-435f-9d3d-3887150ef31d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/str/华为机试-明明的随机数.py" beforeDir="false" afterPath="$PROJECT_DIR$/str/华为机试-明明的随机数.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,8 +72,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/str/华为机试-明明的随机数.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+            <state>
+              <caret column="35" selection-start-column="35" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -329,12 +329,12 @@
       <workItem from="1617699385531" duration="979000" />
       <workItem from="1617702113437" duration="11948000" />
       <workItem from="1618052479210" duration="596000" />
-      <workItem from="1618188865279" duration="2909000" />
+      <workItem from="1618188865279" duration="3045000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30935000" />
+    <option name="totallyTimeSpent" value="31071000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -349,12 +349,12 @@
     <frame x="1848" y="51" width="1483" height="914" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32130465" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32130465" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32912987" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32912987" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997478" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -363,7 +363,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32912987" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.33417404" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33417404" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -543,8 +543,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/str/华为机试-明明的随机数.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        <state>
+          <caret column="35" selection-start-column="35" selection-end-column="35" />
         </state>
       </provider>
     </entry>
