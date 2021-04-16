@@ -1,0 +1,5 @@
+data = input()
+char = input()
+data_upper = data.upper()
+char_upper = char.upper()
+print(data_upper.count(char_upper))
